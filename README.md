@@ -10,6 +10,10 @@
 - 📫 How to reach me: [LinkedIn](http://www.linkedin.com/in/shresty-bohra/) | [GitHub](https://github.com/ShrestyB)
 - 😄 Pronouns: She/Her
 
+## 🚀 Languages Used
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrestyB&layout=compact&theme=radical)
+
 
 
 <!--
@@ -29,9 +33,6 @@ Here are some ideas to get you started:
 
 ![Shresty's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShrestyB&show_icons=true&theme=radical)
 
-## 🚀 Languages Used
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrestyB&layout=compact&theme=radical)
 
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/shresty-bohra/)
