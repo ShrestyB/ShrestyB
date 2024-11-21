@@ -20,9 +20,6 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
-## 🚀 Languages Used
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrestyB&layout=compact&theme=radical)
 
 
 <!--
@@ -38,6 +35,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 🚀 Languages Used
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrestyB&layout=compact&theme=radical)
+
 ## 📊 GitHub Stats
 
 ![Shresty's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShrestyB&show_icons=true&theme=radical)
