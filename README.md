@@ -11,7 +11,9 @@
 - 😄 Pronouns: She/Her
 
 
+🚀 Languages Used
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrestyB&layout=compact&theme=radical)
 
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
